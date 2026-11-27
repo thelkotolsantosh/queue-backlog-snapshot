@@ -1,0 +1,6 @@
+ticket,queue,opened,closed
+T1,Billing,2026-11-20,
+T2,Billing,2026-11-26,2026-11-28
+T3,Returns,2026-11-23,2026-11-27
+T4,Support,2026-11-27,
+T5,Support,2026-11-28,
